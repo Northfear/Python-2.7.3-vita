@@ -1,3 +1,8 @@
+This port is not supported anymore, so you should probably just use this patches
+https://github.com/uyjulian/python_vita
+for GemRB build
+
+
 This is Python version 2.7.3
 ============================
 
